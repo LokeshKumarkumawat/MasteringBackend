@@ -6,7 +6,17 @@
 - Core Principles of Microservices
 - Monolithic vs Microservices: When & Why to Migrate
 - Domain-Driven Design (DDD) & Bounded Contexts
-- Event-Driven Architecture & CQRS Pattern
+- API Gateway Pattern
+- Service Registry & Discovery
+- Circuit Breaker Pattern
+- Saga Pattern
+- Event-Driven Architecture
+- CQRS (Command Query Responsibility Segregation)
+- Strangler Pattern
+- Bulkhead Pattern
+- Sidecar Pattern
+- Observability & Logging
+
 
 ### **2. Spring Boot for Microservices Development** 🚀📜🛠️
 - Advanced Spring Boot Features for Microservices
