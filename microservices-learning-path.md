@@ -2,7 +2,7 @@
 
 ---
 
-### **1. Understanding Microservices Architecture** 🎯📦🔍
+### **1. Understanding Microservices Architecture Pattern** 🎯📦🔍
 - Core Principles of Microservices
 - Monolithic vs Microservices: When & Why to Migrate
 - Domain-Driven Design (DDD) & Bounded Contexts
